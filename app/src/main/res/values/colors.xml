@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#03A9F4</color>
+    <color name="colorPrimaryDark">#0288D1</color>
+    <color name="colorAccent">#FFC107</color>
+
+    <color name="white">#FFFFFF</color>
+    <color name="black">#000000</color>
+    <color name="parent">#00000000</color>
+    <color name="gray">#666666</color>
+    <color name="grayLight">#EEEEEE</color>
+
+    <color name="audioBack">#ef6c00</color>
+    <color name="videoBack">#ed3b3b</color>
+    <color name="appBack">#689f38</color>
+    <color name="gameBack">#536dfe</color>
+    <color name="pornBack">#658092</color>
+    <color name="otherBack">#039be5</color>
+</resources>

@@ -1,0 +1,46 @@
+<resources>
+    <string name="app_name">小海湾</string>
+    <string name="app_version">v0.0.1</string>
+
+    <!-- 菜单 -->
+    <string name="action_settings">设置</string>
+    <string name="action_search">搜索</string>
+    <string name="action_faq">帮助</string>
+    <string name="action_feedback">反馈</string>
+    <string name="action_donate">捐助</string>
+    <string name="action_about">关于</string>
+
+
+    <!-- 种子详情界面 -->
+    <string name="detail_link_title">磁力链接</string>
+    <string name="detail_intro_title">简介</string>
+    <string name="button_copy">复制</string>
+    <string name="button_open">下载</string>
+
+    <!-- 种子列表界面 -->
+    <string name="list_empty">没有找到哦！</string>
+    <string name="list_loading">正在加载...</string>
+    <string name="list_loading_more">正在加载更多...</string>
+
+    <!-- 帮助 -->
+    <string name="faq_dialog_title">帮助</string>
+    <string name="faq_dialog_button">知道了</string>
+    <string name="faq_dialog_text">
+        \n
+        <i>本应用数据均来自海盗湾网站(https://thepiratebay.org/)</i>\n\n
+
+        <b>使用方法</b>\n
+        1.在主界面分类中查看各分类中最热门的资源\n
+        2.输入电影IMDB号搜索电影\n
+        3.用英文关键字搜索资源\n\n
+
+        <b>常见问题</b>\n
+        1.由于服务器位置原因，电信宽带用户访问速度可能较慢，请大家耐心等待。\n
+        2.由于数据源原因，本应用不支持使用中文关键字进行搜索。\n
+    </string>
+
+    <!-- 反馈 -->
+    <string name="feedback_email">mailto:lizhiqing1996@gmail.com</string>
+    <string name="feedback_title">来自小海湾的反馈信息</string>
+    <string name="feedback_no_email_app">你没有可以发送邮件的应用！</string>
+</resources>
